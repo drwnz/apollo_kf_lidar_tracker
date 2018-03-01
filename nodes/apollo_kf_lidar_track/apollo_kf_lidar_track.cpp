@@ -19,7 +19,7 @@
 #include <jsk_rviz_plugins/PictogramArray.h>
 #include <jsk_recognition_msgs/PolygonArray.h>
 
-#include "apollo_tracker.h"
+#include "ApolloTracker.h"
 
 class ApolloKfLidarTrackNode
 {
